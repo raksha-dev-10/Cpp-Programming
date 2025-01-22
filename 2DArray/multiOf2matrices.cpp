@@ -41,6 +41,11 @@ int main(){
         }
         cout<<endl;
     }
+   //checking if multiplication is possible
+    if(c1!=r2){
+        cout<<"multiplication between m1 & m2 is not possible.";
+        return 0;
+    }
 
   //new matrice m3, produced by multyplying m1 and m2
     int m3[r1][c2];
