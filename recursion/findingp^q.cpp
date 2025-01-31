@@ -23,3 +23,5 @@ int main(){
 
  return 0;
 }
+//space complexity= O(y)
+//time complexity = O(y)
