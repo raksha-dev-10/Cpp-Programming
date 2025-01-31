@@ -27,3 +27,5 @@ int main(){
 
     return 0;
 }
+//space complexity= O(log q)
+//time complexity = O(log q)
