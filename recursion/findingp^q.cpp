@@ -3,7 +3,7 @@ using namespace std;
 
 int power(int x, int y){
     if(y==0){
-        return 0;   //if input power is zero, returning zero
+        return 1;   //if input power is zero, returning zero
     }
     if(y==1){
         return x;   //base case
